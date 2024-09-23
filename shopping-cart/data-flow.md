@@ -1,5 +1,5 @@
 # Data Flow in Distributed Shopping Cart System
-## 1. Adding an Item to the Cart
+## 1.Adding an Item to the Cart
 ### Step-by-Step Data Flow:
 #### 1. User Action:
 - A user adds an item to their shopping cart via the UI.
